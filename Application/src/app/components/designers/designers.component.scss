@@ -1,0 +1,32 @@
+.d-main-outer{
+  margin-top: 20px;
+  width: 100%;
+  height: auto;
+  display: flex;
+}
+.d-main-inner{
+  height: auto;
+}
+.di1{
+  width: 20%;
+}
+.di2{
+  width: 80%;
+}
+.d-text-outer{
+  padding-left: 10px;
+  width: 100%;
+  height: 40px;
+  display: flex;
+  align-items: center;
+}
+.btnon{
+  border: none;
+  background-color: white;
+}
+.btnon:hover{
+  color: deeppink;
+}
+.active{
+  color: deeppink;
+}

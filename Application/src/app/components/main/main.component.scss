@@ -1,0 +1,102 @@
+.main-first-outer{
+  width: 100%;
+  height: 500px;
+  display: flex;
+  justify-content: center;align-items: center;
+}
+.slide1{
+  width: 80%;
+}
+.reco-outer{
+  width: 100%;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  padding-left: 50px;
+}
+.main-ex{
+  width: 100%;
+  height: 300px;
+  display: flex;
+}
+.main-ads1{
+  width: 100%;
+  height: 200px;
+  display: flex;justify-content: center;align-items: center;
+}
+.ad1{
+  width: 80%;
+}
+.ads2{
+  height: 500px;
+}
+.ads3{
+  height: 400px;
+}
+.main-i-double{
+  width: 100%;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+}
+.main-i-d{
+  padding: 20px;
+  width: 40%;
+  height: 500px;
+  display: flex;justify-content: center;
+  align-items: center;
+}
+.mid{
+  width: 100%;
+}
+.ads4{
+  height: 500px;
+}
+
+
+.main-footer-outer{
+  width: 100%;
+  height: 300px;
+  display: flex;
+  border-top: dimgrey;
+}
+.main-footer-inner{
+  width: 25%;
+  height: 300px;
+  background-color: #ecf0f1;
+}
+.mfi{
+  width: 100%;
+  height: 37px;
+  display: flex;
+  align-items: center;
+  padding-left: 50px;
+}
+.main-f-logo{
+  width: 15%;
+  height: 37px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo{
+  width: 80%;
+}
+.sub-footer-outer{
+  width: 100%;
+  height: 240px;
+}
+.sfi{
+  width: 100%;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: small;
+}
+.btnon{
+  border: none;
+  background-color: white;
+  color: cornflowerblue;
+}
+

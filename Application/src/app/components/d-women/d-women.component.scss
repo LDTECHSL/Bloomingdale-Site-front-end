@@ -1,0 +1,48 @@
+.dw-head{
+  width: 100%;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+}
+.dw-img-head{
+  width: 100%;
+  height: 370px;
+  display: flex;
+}
+.dw-alphabet{
+  width: 100%;
+  height: 50px;
+  display: flex;
+}
+.dw-a2z{
+  width: 3.7%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btnon{
+  border: none;
+  background-color: white;
+}
+.dw-A{
+  width: 100%;
+  height: 150px;
+  display: flex;
+}
+.dw-A-rows{
+  width: 25%;
+  height: 150px;
+}
+.dw-A-text{
+  width: 100%;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+}
+.dw-empty{
+  width: 100%;
+  height: 60px;
+}

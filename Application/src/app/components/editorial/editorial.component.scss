@@ -1,0 +1,108 @@
+.e-main-outer{
+  margin-top: 20px;
+  width: 100%;
+  height: 200px;
+  display: flex;
+}
+.e-main-inner{
+  height: 200px;
+}
+.emi1{
+  width: 20%;
+}
+.emi2{
+  width: 80%;
+}
+.emi-text{
+  width: 100%;
+  height: 50px;
+  padding-left: 10px;
+  display: flex;
+  align-items: center;
+}
+.emi-img{
+  width: 100%;
+  height: 150px;
+}
+.emi-i{
+  width: 100%;
+  height: 145px;
+}
+.e-second-outer{
+  width: 100%;
+  height: 500px;
+  display: flex;
+}
+.e-second-inner{
+  height: 500px;
+}
+.esi1{
+  width: 20%;
+}
+.esi2{
+  width: 80%;
+  display: flex;
+}
+.esi-text{
+  width: 100%;
+  padding-left: 10px;
+  display: flex;
+  align-items: center;
+  height: 41px;
+}
+.esi-img{
+  width: 50%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.esi-i{
+  width: 80%;
+  height: 80%;
+}
+.main-footer-outer{
+  width: 100%;
+  height: 300px;
+  display: flex;
+  border-top: dimgrey;
+}
+.main-footer-inner{
+  width: 25%;
+  height: 300px;
+  background-color: #ecf0f1;
+}
+.mfi{
+  width: 100%;
+  height: 37px;
+  display: flex;
+  align-items: center;
+  padding-left: 50px;
+}
+.main-f-logo{
+  width: 15%;
+  height: 37px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo{
+  width: 80%;
+}
+.sub-footer-outer{
+  width: 100%;
+  height: 240px;
+}
+.sfi{
+  width: 100%;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: small;
+}
+.btnon{
+  border: none;
+  background-color: white;
+  color: cornflowerblue;
+}
